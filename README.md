@@ -118,9 +118,7 @@ Mastering this application becomes achievable by following the steps outlined be
     <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="600" height="200"> 
   </div> 
 5. After completing the aforementioned steps, the recipient's email will receive a message containing a QR code. Using a mobile phone, you can download either Google Authenticator or Microsoft Authenticator to scan the code. The application will then generate a token every 30 seconds. Users are required to input this token in the login interface to access their accounts.
-   <div align="center">
-    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="600" height="200"> 
-  </div> 
+
 6. Open Postman and send a request to test the validity of the token.
    <div align="center">
     <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/login.png" width="800" height="400"> 
