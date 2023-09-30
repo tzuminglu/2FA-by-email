@@ -99,18 +99,22 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Mastering this application becomes achievable by following the steps outlined below
 
-1. Run npm start in terminal
-    ```sh
-   npm run start
-   ```
+
+1. Prepare two email addresses: one for the sender and another for the receiver. Create an .env file in the root directory. In this file, you need to include GMAIL_USER (your sender email address) and GMAIL_PASS (16-digit password) for this email address. You can follow this [reference](https://israynotarray.com/nodejs/20230722/1626712457/) to generate a new 16-digit password.
+
 2. Open Mongodb and postman. And type in user information in the postman to register a new user. (Note: If you enter a non-existent email, you will not be able to receive the email.)
    <div align="center">
     <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="800" height=" 400"> 
   </div> 
-3. Verify if MongoDB stores your data. (Note: You can download mongodb compass to help you to check.)
+3. Verify if MongoDB stores your data. (Note: You can download MongoDB Compass to visualize the database.)
    <div align="center">
     <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="550" height="200"> 
   </div> 
+4. 
+5. Run npm start in terminal
+    ```sh
+   npm run start
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -130,7 +134,7 @@ Mastering this application becomes achievable by following the steps outlined be
 * [JWT decode](https://jwt.io/)
 * [Two factor Authentication in Node.Js](https://hackster-origin.medium.com/two-factor-authentication-in-node-js-214efa84f88e)
 * [Node.js + MongoDB: User Authentication & Authorization with JWT](https://www.bezkoder.com/node-js-mongodb-auth-jwt/)
-
+* [nodemailer to send email](https://israynotarray.com/nodejs/20230722/1626712457/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
