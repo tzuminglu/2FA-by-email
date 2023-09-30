@@ -105,7 +105,7 @@ Mastering this application becomes achievable by following the steps outlined be
    ```
 2. Open Mongodb and postman. And type in user information in the postman to register a new user. (Note: If you enter a non-existent email, you will not be able to receive the email.)
    <div align="center">
-    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="300" height="400"> 
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="800" height=" 400"> 
   </div> 
 3. Find out the mongodb stores your user.
    <div align="center">
