@@ -108,7 +108,7 @@ Mastering this application becomes achievable by following the steps outlined be
   </div> 
 3. Verify if MongoDB stores your data. (Note: You can download MongoDB Compass to visualize the database.)
    <div align="center">
-    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="550" height="200"> 
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="600" height="200"> 
   </div> 
 4. 
 5. Run npm start in terminal
