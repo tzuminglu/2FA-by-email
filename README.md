@@ -109,7 +109,7 @@ Mastering this application becomes achievable by following the steps outlined be
   </div> 
 3. Verify if MongoDB stores your data. (Note: You can download mongodb compass to help you to check.)
    <div align="center">
-    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="500" height="200"> 
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="550" height="200"> 
   </div> 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
