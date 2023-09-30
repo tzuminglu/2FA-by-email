@@ -1,13 +1,11 @@
 import express from "express";
 import speakeasy from "speakeasy";
-import { v5 as uuid } from "uuid";
 import { usersData } from "./data/index.js"
 import QRCode from 'qrcode'
 import { users } from "./config/mongoCollections.js";
 import jwt from "jsonwebtoken";
 import cors from "cors";
 import cookieParser from "cookie-parser";
-import session from "express-session";
 import cookieSession from "cookie-session";
 import { config_secret } from "./config/auth.config.js"
 import nodemailer from "nodemailer"
