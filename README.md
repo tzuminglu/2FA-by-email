@@ -62,6 +62,7 @@ To develop this project, you will need the following tools:
 * [![node.js][node.js-img]][node.js-url]
 * [![postman][postman-img]][postman-url]
 * [![mongodb][mongodb-img]][mongodb-url]
+* [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,10 +97,20 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Mastering this application becomes achievable by following the steps outlined below
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+1. Run npm start in terminal
+    ```sh
+   npm run start
+   ```
+2. Open Mongodb and postman. And type in user information in the postman to register a new user. (Note: If you enter a non-existent email, you will not be able to receive the email.)
+   <div align="center">
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="300" height="400"> 
+  </div> 
+3. Find out the mongodb stores your user.
+   <div align="center">
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="300" height="400"> 
+  </div> 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
