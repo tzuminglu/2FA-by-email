@@ -63,6 +63,7 @@ To develop this project, you will need the following tools:
 * [![postman][postman-img]][postman-url]
 * [![mongodb][mongodb-img]][mongodb-url]
 * [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US)
+* [Mircosoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
