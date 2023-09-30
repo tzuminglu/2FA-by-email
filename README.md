@@ -107,9 +107,9 @@ Mastering this application becomes achievable by following the steps outlined be
    <div align="center">
     <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="800" height=" 400"> 
   </div> 
-3. Find out the mongodb stores your user.
+3. Verify if MongoDB stores your data. (Note: You can download mongodb compass to help you to check.)
    <div align="center">
-    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/register.png" width="300" height="400"> 
+    <img src="https://github.com/tzuminglu/2FA-with-email/blob/main/mongodb.png" width="800" height="400"> 
   </div> 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
