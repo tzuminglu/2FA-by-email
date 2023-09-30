@@ -42,9 +42,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="https://github.com/tzuminglu/2FA-with-email/blob/main/example.jpeg" width="100" height="100">
-
+<div align="center">
+<img src="https://github.com/tzuminglu/2FA-with-email/blob/main/example.jpeg" width="300" height="300">
+</div>
 While there is a wealth of open-source material available that demonstrates how to implement two-factor authentication (2FA), 
 there are limited resources showcasing the integration of 2FA with email communication for users. 
 The aim of this project is to merge these two aspects into a single resource, providing developers with a comprehensive understanding of how they can work together.
