@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tzuminglu/2FA-with-email">
-    <img src="https://www.malwarebytes.com/blog/images/uploads/2018/09/shutterstock_641960737.jpg" alt="Logo" width="600" height="360">
+    <img src="https://www.malwarebytes.com/blog/images/uploads/2018/09/shutterstock_641960737.jpg" alt="Logo" width="600" >
   </a>
 
   <h3 align="center">Implementing two-factor authentication (2FA) using both email and QR code methods.</h3>
